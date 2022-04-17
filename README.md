@@ -1,2 +1,2 @@
 # CRUDS-Project
-site link : https://TheStranger.github.io/CRUDS-Project/
+site link : https://TheStranger0.github.io/CRUDS-Project/
